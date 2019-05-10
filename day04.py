@@ -47,3 +47,25 @@
 
 #-------------------------------------
 
+# for i in range(1,10):
+#     for j in range(1,10):
+#         print("%d x %d = %d " % (i,j,i*j))
+#     print('\n')
+
+#-------------------------------------
+
+# from math import sqrt
+#
+# temp = int(input("Please enter a number: "))
+#
+# #for x in range(2,temp):
+# for x in range(2, int(sqrt(temp)+1)):
+#
+#     if(temp % x == 0):
+#         print("Not a Prime number!")
+#         break
+#     else:
+#         print("Prime number!")
+#         break
+
+#-------------------------------------
